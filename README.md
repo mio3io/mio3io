@@ -1,4 +1,4 @@
-## 👋
+## Hi there 👋
 
 [Blender Ado-on and Documents](https://addon.mio3io.com/)
 
